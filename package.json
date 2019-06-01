@@ -1,0 +1,12 @@
+{
+  "name": "node-express-base-project",
+  "version": "1.0.0",
+  "description": "node-express-base-project",
+  "main": "index.js",
+  "repository": "https://github.com/matipacheco/node-express-base-project.git",
+  "author": "Mati <matipacheco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
