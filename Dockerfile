@@ -1,7 +1,7 @@
 FROM node:10
 
 # File Author / Maintainer
-MAINTAINER Matías Pacheco
+MAINTAINER Matias Pacheco
 
 # Create app directory
 WORKDIR /usr/src/app

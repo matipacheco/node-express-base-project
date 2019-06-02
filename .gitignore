@@ -3,6 +3,8 @@
 
 *.pem
 
+app.zip
+
 # Logs
 logs
 *.log
