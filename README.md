@@ -34,5 +34,6 @@ Now transfer the source bundle your EC2 instance:
 
 - [Launching EC2 instance](https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/launching-instance.html)
 - [Accesing AWS EC2 instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
+- [Create an Application Source Bundle](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/applications-sourcebundle.html#using-features.deployment.source.git)
 - [AWS & Docker basics](https://docs.aws.amazon.com/es_es/AmazonECS/latest/developerguide/docker-basics.html)
 - [NodeJS + Docker Webapp](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
